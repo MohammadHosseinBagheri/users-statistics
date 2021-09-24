@@ -1,0 +1,10 @@
+@import "./variables";
+@import "./fonts.scss";
+@import "./common/index.scss";
+@import "./home/index.scss";
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: shabnam !important;
+}
