@@ -1,0 +1,10 @@
+.home_div__container{
+    padding: 20px !important;
+    color: $gray-color;
+    justify-content: center !important;
+    margin: auto  !important;
+    .home_div__header{
+        padding-bottom: 50px;
+        border-bottom: 0.5px solid $gray-color;
+    }
+}
