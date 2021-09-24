@@ -1,0 +1,16 @@
+.sidebar_div__container {
+    padding: 20px !important;
+    border-left: 1px #eee solid;
+
+    .sidebar_img__logo {
+        width: 60px;
+        height: 60px;
+    }
+
+    .sidebar_link__active {
+        border-left: 5px $purple-color solid !important;
+        // &::after{
+        //     content: "";
+        // }
+    }
+}
